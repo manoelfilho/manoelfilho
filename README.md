@@ -1,4 +1,4 @@
-### Hi there 👋
+### always studying something new. now swift 👨🏽‍💻
 
 <!--
 **manoelfilho/manoelfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
