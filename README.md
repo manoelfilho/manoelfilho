@@ -56,6 +56,7 @@ I am a programmer with 8 years of experience. I have a degree in Social Communic
 
 ## Languages and Tools  
 <div align="center">  
+<img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/s/13/swift.svg" alt="Swift" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
