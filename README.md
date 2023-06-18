@@ -28,18 +28,20 @@ I am a programmer with 8 years of experience. I have a degree in Social Communic
 
 
 ## Rapidfire  
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      - 🇺🇳 I currently work as a technology professional at the United Nations Children's Fund - UNICEF  
-      - 🎒 Working with tools for the area of education management
-      - 👨🏽‍💻 Today I work with PHP, Laravel, React, VUE, Elasticsearch and other technologies
-      - 🎨 I really enjoy dealing with application design, despite being focused on development  
-      - ♥️ I love being involved with mobile applications 
-      - ♥️ I love working with education
-    </td>
-  </tr>
-</table>  
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="100%">
+        - 🇺🇳 I currently work as a technology professional at the United Nations Children's Fund - UNICEF  <br/>
+        - 🎒 Working with tools for the area of education management<br/>
+        - 👨🏽‍💻 Today I work with PHP, Laravel, React, VUE, Elasticsearch and other technologies<br/>
+        - 🎨 I really enjoy dealing with application design, despite being focused on development  <br/>
+        - ♥️ I love being involved with mobile applications <br/>
+        - ♥️ I love working with education
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>  
 
@@ -73,30 +75,21 @@ I am a programmer with 8 years of experience. I have a degree in Social Communic
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manoelfilho&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelfilho&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+## Github Stats 
+<div align="center">
+  <table>
+     <tr>
+        <td valign="top" width="50%">
+           <img src="https://github-readme-stats.vercel.app/api?username=manoelfilho&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
+        </td>
+        <td valign="top" width="50%">
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelfilho&hide_border=true&layout=compact" align="left" style="width: 90%" />
+        </td>
+     </tr>
+  </table>
+</div>
 
 <br/>  
-
-  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
