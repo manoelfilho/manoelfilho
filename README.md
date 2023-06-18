@@ -28,7 +28,7 @@ I am a programmer with 8 years of experience. I have a degree in Social Communic
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🇺🇳 I currently work as a technology consultancy at the United Nations Children's Fund - UNICEF  
   
@@ -42,7 +42,7 @@ I am a programmer with 8 years of experience. I have a degree in Social Communic
 - ❤️ I love being involved with mobile applications  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
