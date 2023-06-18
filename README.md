@@ -28,31 +28,20 @@ I am a programmer with 8 years of experience. I have a degree in Social Communic
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🇺🇳 I currently work as a technology consultancy at the United Nations Children's Fund - UNICEF  
-  
-
-- 🎒 Working with tools for the area of education management  
-  
-
-- 🎨 I really enjoy dealing with application design, despite being focused on development  
-  
-
-- ❤️ I love being involved with mobile applications  
-
-
-</td><td valign="top" width="100%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      - 🇺🇳 I currently work as a technology professional at the United Nations Children's Fund - UNICEF  
+      - 🎒 Working with tools for the area of education management
+      - 👨🏽‍💻 Today I work with PHP, Laravel, React, VUE, Elasticsearch and other technologies
+      - 🎨 I really enjoy dealing with application design, despite being focused on development  
+      - ♥️ I love being involved with mobile applications 
+      - ♥️ I love working with education
+    </td>
+  </tr>
+</table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
