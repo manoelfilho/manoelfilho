@@ -21,7 +21,7 @@
 
 
 ### What do I do?  
-I am a programmer with 8 years of experience. I have a degree in Social Communication with a specialization in Systems Analysis. My technology stack is related to the use of PHP, JAVA, JAVA SCRIPT and SWIFT  
+I am a programmer with 12 years of experience. I have a degree in Social Communication with a specialization in Systems Analysis. My technology stack is related to the use of PHP, JAVA, JAVA SCRIPT and SWIFT  
   
 
 <br/>  
